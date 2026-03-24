@@ -1,4 +1,4 @@
-# Clustering Models Comparisons
+# Clustering Techniques
 
 data set used : [https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset](https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset)
 
